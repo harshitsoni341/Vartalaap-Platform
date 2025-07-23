@@ -46,7 +46,7 @@
 ### Step 1: Clone the Repository
 
 ```bash
-  git clone https://github.com/Adamya-Gupta/Varta-Platform.git
+  git clone https://github.com/harshitsoni341/Vartalaap-Platform.git
 ```
 
 ### Step 2: Install Required Dependencies
@@ -147,7 +147,7 @@ Varta offers these 32 themes:
   </td></tr></table>
 </div>
 
-https://github.com/user-attachments/assets/b8a992d1-7bdb-46b4-a4cf-e4206b553919
+
 
 ## 🌍 Supported Languages
 
@@ -176,7 +176,5 @@ Learn and interact in a wide variety of languages!
 - Add forget password option.
 - Better UI/UX.
 
-## 📚 References
 
-Inspired by - [LINK](https://youtu.be/ZuwigEmwsTM?feature=shared)
 
